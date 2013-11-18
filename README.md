@@ -9,4 +9,4 @@ CXNavigationController
 使用时需引入QuartzCore.framework；
 兼容iOS7；
 
-[Demo](sample.png)
+![Demo](https://raw.github.com/ChenShuMo/CXNavigationController/master/sample.png)
