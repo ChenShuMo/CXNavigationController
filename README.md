@@ -8,3 +8,5 @@ CXNavigationController
 支持ARC；
 使用时需引入QuartzCore.framework；
 兼容iOS7；
+
+![Demo](https://github.com/ChenShuMo/CXNavigationController/blob/master/sample.png)
